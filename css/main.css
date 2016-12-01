@@ -19,6 +19,8 @@ html {
 
 body {
   background-color: #e5c30a;
+  margin: 0;
+  max-width: 45em;
 }
 
 .wrapper {
@@ -27,4 +29,13 @@ body {
 
 .img-flex {
   width: 100%;
+  display: block;
+}
+
+section h2 {
+  margin: 1.4rem;
+}
+
+section p {
+  font-weight: normal;
 }
