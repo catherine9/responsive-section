@@ -86,6 +86,15 @@ section {
     line-height: 1.4;
   }
 
+  .section-letter {
+    margin-left: 2.3rem;
+    width: 17%;
+  }
+
+  .section-icon {
+    width: 17%;
+    float: right;
+  }
 
 }
 
@@ -96,14 +105,13 @@ section {
     line-height: 1.5;
   }
 
-
 }
 
 @media only screen and (min-width: 90em) {
 
   html {
     font-size: 130%;
-    line-height: 1.5;
+    line-height: 1.6;
   }
 
 }
