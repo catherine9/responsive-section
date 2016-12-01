@@ -20,3 +20,7 @@ body{
 .wrapper {
   font-family: "Noto Sans", sans-serif;
 }
+
+.img-flex {
+  width: 100%;
+}
